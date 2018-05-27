@@ -1,0 +1,19 @@
+{
+  "name": "viewport-units-polyfill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuJiaoHJ/viewport-units-polyfill.git"
+  },
+  "author": "hujiao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuJiaoHJ/viewport-units-polyfill/issues"
+  },
+  "homepage": "https://github.com/HuJiaoHJ/viewport-units-polyfill#readme"
+}
