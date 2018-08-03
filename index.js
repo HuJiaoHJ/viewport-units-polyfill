@@ -6,7 +6,7 @@
         } else if (typeof exports === 'object') {
             module.exports = factory();
         } else {
-            root.viewportUnitsBuggyfill = factory();
+            root.viewportUnitsPolyfill = factory();
         }
     }(this, function () {
         'use strict';
@@ -126,3 +126,5 @@
         };
     }));
 })();
+
+window.viewportUnitsPolyfill.init();
